@@ -1,6 +1,3 @@
-
-100-atoi.c
-
 #include "main.h"
 
 /**
